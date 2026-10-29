@@ -1,0 +1,2 @@
+config_file,config_sha256,n_seed_learner_runs,n_trial_rows,trial_level_results_saved
+reversal_benchmark.json,2a0a38380109d7e47652a444bb7399a10351ee59fc88bd7089d518132af6d37c,128,102400,False
